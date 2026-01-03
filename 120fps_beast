@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BEAST OFFICIAL</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: linear-gradient(180deg, #000000, #0a0f1f);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #ffffff;
+    }
+
+    .box {
+      width: 100%;
+      max-width: 420px;
+      padding: 30px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+      letter-spacing: 3px;
+    }
+
+    p {
+      font-size: 14px;
+      opacity: 0.8;
+      margin-bottom: 30px;
+    }
+
+    a.button {
+      display: block;
+      text-decoration: none;
+      color: #fff;
+      background: #0d6efd;
+      padding: 15px;
+      border-radius: 12px;
+      margin: 15px 0;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    a.button:hover {
+      background: #0b5ed7;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 11px;
+      opacity: 0.5;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h1>BEAST OFFICIAL</h1>
+
+    <p>
+      Power. Precision. Vision.<br>
+      Built different.
+    </p>
+
+    <a class="button" href="https://wa.me/qr/DGMOZKIOSIU2H1" target="_blank">
+      Chat on WhatsApp
+    </a>
+
+    <a class="button" href="https://www.instagram.com/120fps_beast?igsh=ZXV3bDh4aHVlZDE2" target="_blank">
+      Follow on Instagram
+    </a>
+
+    <a class="button" href="mailto:haleem.guull@gmail.com">
+      Contact via Email
+    </a>
+
+    <div class="footer">
+      © BEAST • OFFICIAL
+    </div>
+  </div>
+
+</body>
+</html>
